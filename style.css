@@ -24,3 +24,21 @@ div{
     top: 0%;
     right: 0%;
 }
+p{
+    text-align: center;
+    
+}
+.green > p{
+    margin-top: 0ch;
+    font-size: 14px;
+    line-height: 20px;
+}
+.red > p{
+    margin-top: 0ch;
+    font-size: 14px;
+    line-height: 20px;
+}
+body{
+    width: 75%;
+    margin:auto;
+}
