@@ -47,12 +47,15 @@ body{
     bottom: 10px;
     right: 50%;
     text-decoration: none;
-    color:rgb(241, 240, 240)
+    color:rgb(241, 240, 240);
+    cursor: pointer;
+    
     
 }
 .cuore:hover{
     color: red;
     text-decoration: none;
+    
     
 }
 .contenitore{
