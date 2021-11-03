@@ -42,3 +42,8 @@ body{
     width: 75%;
     margin:auto;
 }
+.cuori{
+    position: absolute;
+    bottom:1px;
+    right: 50%;
+}
