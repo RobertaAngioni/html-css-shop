@@ -42,8 +42,16 @@ body{
     width: 75%;
     margin:auto;
 }
-.cuori{
+.cuore{
     position: absolute;
-    bottom:1px;
+    bottom: 10px;
     right: 50%;
+    text-decoration: none;
+    color:rgb(241, 240, 240)
+    
+}
+.cuore:hover{
+    color: red;
+    text-decoration: none;
+    
 }
