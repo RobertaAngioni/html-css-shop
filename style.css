@@ -1,8 +1,6 @@
-div{
-    display: inline-block;
-}
 .prodotto{
     position: relative;
+    display: inline-block;
     
 }
 
@@ -46,15 +44,18 @@ body{
     position: absolute;
     bottom: 10px;
     right: 50%;
-    text-decoration: none;
-    color:rgb(241, 240, 240);
+    /* text-decoration: none; */
+    /* color:rgb(241, 240, 240); */
     cursor: pointer;
+    color: red;
+    display: none;
     
     
 }
-.cuore:hover{
+.prodotto:hover .cuore{
     color: red;
     text-decoration: none;
+    display:block
     
     
 }
